@@ -29,6 +29,9 @@
 .ce-active-chat-card {
   background-color: #726dfe !important;
 }
+.ce-chat-title{
+   background-color: #4A5162 !important;
+}
 
 .ce-chat-title-text {
   color: white !important;
