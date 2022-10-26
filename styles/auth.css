@@ -106,8 +106,9 @@
   left: 0px; */
   /* width: calc(100vw - 200px); */
   width: 100%;
-  /* height: calc(100vh - 200px); */
-  height: 100vh;
   background: linear-gradient(150deg, #d9dbe2, #808aac 100%, #282d39 0);
+}
+.shadow{
+  height: 85%;
 }
 }
