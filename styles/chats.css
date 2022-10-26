@@ -41,11 +41,19 @@
   color: hsla(0, 0%, 100%, 0.568) !important;
 }
 
-.ce-chat-unread-dot {
-  background-color: white !important;
+
+  
+  ::-webkit-scrollbar {
+    display: none;
+
+
 }
 
 /* Chat Feed */
+.ce-feed-container{
+  overflow-y: hidden;
+  scrollbar-width: 0;
+}
 
 .ce-chat-title-container {
   background-color: #4a5162 !important;
