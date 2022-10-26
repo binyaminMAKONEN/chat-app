@@ -19,7 +19,7 @@ export default function Auth() {
    .then(r => router.push('/chats'))
   }
   return (
-  <div className="background">
+  <div className="background-login">
     <div className='auth-container'>
       <form className='auth-form' onSubmit={e => onSubmit(e)}>
           <div className="auth-title">Benja chats</div>
