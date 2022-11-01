@@ -108,5 +108,7 @@
   width: 100%;
   background: linear-gradient(150deg, #d9dbe2, #808aac 100%, #282d39 0);
 }
-
+.shadow{
+  height: 100%;
+}
 }
